@@ -14,7 +14,7 @@ and improvements to it.
 1. [Code of Conduct](contents/coc.md)
 1. [Expectations](contents/expectations.md)
 1. [Communication](contents/communication.md)
-1. [Coding and Software](contents/coding.md)
+1. [Coding and Software](contents/code.md)
 1. [Publications](contents/papers.md)
 
 ## License
