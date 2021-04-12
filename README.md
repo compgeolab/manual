@@ -30,6 +30,6 @@ The manual is available under the
 
 <!-- Links -->
 [cc-by]: https://creativecommons.org/licenses/by/4.0
-[lab-carp]: http://labcarpentry.org
+[lab-carp]: https://github.com/lab-carpentry
 [dib]: http://ivory.idyll.org/lab/
 [dxl]: https://data-exp-lab.github.io/
