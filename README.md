@@ -144,46 +144,51 @@ Reproducibility:
 
 ## 5. Authorship
 
-### Publications
+The following guidelines apply to publications involving lab members.
+If you want to collaborate with the lab, please make sure you understand and
+agree with them.
 
-Projects that lab members bring with them **do not** automatically confer
-authorship rights to either Leo or other lab members. However, if work is
-conducted on them during the course of being present in the lab,
-acknowledgments would be appreciated; funding acknowledgments are necessary to
-describe the source of your funding.
+* Authorship in publications should be explicitly discussed between everyone
+  involved **as early as possible**, ideally as soon as a project starts.
+* We do not view authorship as a [zero-sum game][zero-sum].
+* Projects that lab members bring with them **do not** automatically confer
+  authorship rights to either Leo or other lab members.
+* However, if work is conducted on them during the course of being present in
+  the lab, acknowledgments would be appreciated (funding acknowledgments are
+  necessary).
+* Projects that are collaborated on between lab members confer authorship to
+  those directly involved, whether that collaboration is intellectual,
+  technical, or data sharing. For example, writing code to support analysis or
+  simulation would confer authorship.
+* Sharing information during group meetings does not automatically confer
+  authorship.
+* If material intellectual contributions (i.e., new directions, solutions to
+  problems, specific and directed project ideas) are made by lab members, that
+  would confer authorship.
 
-Projects that are collaborated on between lab members do confer authorship,
-whether that collaboration takes the form of intellectual collaboration,
-technical collaboration or data sharing. For instance, writing code to support
-analysis or simulation would confer authorship. Sharing information during
-group meetings does not, although if material intellectual contributions (i.e.,
-new directions, solutions to problems, specific and directed project ideas) are
-made by lab members, that would confer authorship.
+External collaborations:
 
-Please keep Leo apprised of the broad outlines of your external and internal
-collaborations. Leo would very much like to be involved in the development of
-external projects, but this is not strictly necessary. It is certainly not
-necessary where lab members are providing supporting roles to external
-collaborations.
+* Please keep Leo apprised of the broad outlines of your external and internal
+  collaborations.
+* You do not have to involve Leo or grant him authorship in your external
+  collaborations (though he will probably be happy to be involved if asked).
 
-### Project Ownership
+Project ownership (from a  social, rather than a licensing or intellectual
+property perspective):
 
-From a social, rather than a licensing or intellectual property perspective,
-when a project is developed in the lab primarily by a single participant, that
-participant is free to continue developing and assuming project leadership once
-they have departed the lab. In fact, developing projects that mature, grow, and
-may contribute to their future career is a key part of the process of
-scientific development.
-
-For projects that are collaboratively developed with multiple roughly equal
-participants, leadership will be decided on a case-by-case basis, erring on the
-side of providing intellectual freedom and empowerment to earlier-stage
-researchers.
-
-However, projects that are part of a strategic lab direction may continue to be
-developed within the lab following departure of a primary developer. In such a
-case, decisions about "forking" or bifurcating development will be held on a
-case-by-case basis.
+* When a project is developed in the lab primarily by a single participant,
+  that participant is free to continue developing and assuming project
+  leadership once they have departed the lab.
+* Developing projects that mature, grow, and may contribute to their future
+  career is a key part of the process of scientific development.
+* For projects that are collaboratively developed with multiple roughly equal
+  participants, leadership will be decided on a case-by-case basis. Preference
+  is given to providing intellectual freedom and empowerment to earlier-stage
+  researchers.
+* Projects that are part of a strategic lab direction may continue to be
+  developed within the lab following departure of a primary developer.
+  Decisions about "forking" or bifurcating development will be held on a
+  case-by-case basis.
 
 ## 6. Ethics
 
@@ -341,3 +346,4 @@ The manual is available under the
 [software-licenses]: https://doi.org/10.1109/MCSE.2009.19
 [fatiando]: https://www.fatiando.org
 [lazy-consensus]: https://rave.apache.org/docs/governance/lazyConsensus.html
+[zero-sum]: https://en.wikipedia.org/wiki/Zero-sum_game
