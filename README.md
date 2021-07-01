@@ -192,35 +192,27 @@ property perspective):
 
 ## 6. Ethics
 
-> **Note:** this is distinct from the [Code of Conduct][coc], which applies
-> both within and without the lab.
-
 Our actions should be guided by the ethics of participating in the scientific
-community. This includes prioritizing our professional obligations over fear of
-being "scooped." For instance, it is *completely unacceptable* to interfere
-with the peer-review process for a paper out of concern of protecting one's own
-work (i.e., "sitting" on a review for it, making unreasonable requests to delay
-publication, and so on.)
+community.
+This means:
 
-When other researchers request assistance with software developed in the lab,
-we should attempt to make a best effort to assist them. It is not unreasonable
-to ask for authorship, particularly if the collaboration is extensive.
-
-When authoring papers, we should be providing citations to all software that
-assisted in the development of the scholarly work. While in the extreme case
-this would extend to the operating system level, in general it is acceptable to
-cite the layers of software in the analysis stack (e.g., NumPy, Matplotlib,
-IPython/Jupyter, etc.) It is preferred to directly cite the canonical papers
-(often described in `CITATION.txt` files) for software, but acknowledging them
-without citation may be sufficient. Citations to data DOIs or publications
-should be made wherever possible, and where not possible, should be included as
-footnotes. When developing software, we must make a best effort to cite which
-pieces of software and published methods contributed to the development.
-
-Plagiarism is unacceptable in any form. This includes "first pass" text
-included in papers or proposals; when "first pass" text is included from an
-external source, it must be clearly marked as such to ensure it is not
-accidentally included in the final product.
+* Prioritizing our professional obligations over fear of being "scooped." For
+  instance, it is unacceptable to interfere with the peer-review process for a
+  paper out of concern of protecting one's own work (i.e., "sitting" on a
+  review for it, making unreasonable requests to delay publication, and so on.)
+* When other researchers request assistance with software developed in the lab,
+  we should attempt to make a best effort to assist them. It is not
+  unreasonable to ask for authorship, particularly if the collaboration is
+  extensive.
+* Provide citations to all software that assisted in the development of the
+  scholarly work. In general it is acceptable to cite the layers of software in
+  the analysis stack (e.g., NumPy, Matplotlib, IPython/Jupyter, Fatiando, etc.)
+* Citations to data sources (DOIs and publications) should be made wherever
+  possible, and where not possible, should be included as footnotes.
+* Plagiarism is unacceptable in any form. This includes "first pass" text
+  included in papers or proposals. If including text from an external source,
+  it must be clearly marked as such to ensure it is not accidentally included
+  in the final product.
 
 ## 7. Coding and software
 
