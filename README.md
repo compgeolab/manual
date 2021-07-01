@@ -28,7 +28,7 @@ take a look at the [induction checklist][checklist].
 We intend to foster a collegial lab atmosphere, with opportunities for
 spontaneous discussions and creative opportunities.
 
-* Lab members are **not** expected to sacrifice personal or leisure time in 
+* Lab members are **not** expected to sacrifice personal or leisure time in
   service of projects.
 * Working long hours without interruption can lead to burnout, exhaustion, and
   overall **impedes** the type of atmosphere we are trying to develop.
@@ -40,20 +40,58 @@ including:
 * Contributing to department projects.
 * Collaborating with individuals from other groups around campus.
 * Fostering new collaborations both internal and external.
- 
+
 We strive to be a part of the intellectual community at the University of
 Liverpool.
 
 > **Note:** Human resources guidelines take precedence over this section.
 
-## 3. Practices
+## 3. Communication
+
+**If you wish to contact the group, please email [Leo][leo] directly.**
+
+How we communicate within the lab:
+
+* **Slack:** Our [Slack team][slack] is the primary mode of communication for
+  quick messages, announcements, reminders, and organizing meetings.
+  Messages are ephemeral so you cannot count of being able to read messages
+  older than 6 months! **Use email if you need a record of the conversation.**
+* **GitHub:** Each project is assigned a repository on our [GitHub account][gh].
+  Reviews of code, text, etc., will be done through the repository. We'll also
+  use to set goals and tasks.
+* **Group meetings:** We will have *short* monthly group meetings for quick
+  updates from everyone, general discussion, announcements, interesting papers,
+  and informal chat.
+* **Individual meetings:** We aim to have weekly individual meetings to discuss
+  project status, goals, and work through problems and ideas.
+* Group members are also encouraged to have meetings and messages with each
+  other. **Don't wait until problems build up to seek guidance.**
+
+Using our website:
+
+* Source code used to generate the website:
+  [compgeolab/website][website-github].
+* Members are expected to post **short** news items when they do things of note
+  (join the group, graduation, publication, conferences, awards, etc), as well
+  as to update project and publication information.
+* When joining the group, please submit a pull request adding yourself to the
+  website. You are **not** required to provide a photo and contact information
+  (but you certainly may if you feel comfortable having this information public
+  on the internet).
+
+Social media:
+
+* In general, social media can be freely used if in line with the
+  [University of Liverpool Social Media Policy][liv-social].
+* Lab members are encouraged to be respectful and kind while participating if
+  they are representing themselves as lab members.
+
+## 4. Practices
 
 ### Openness
 
-Unless there is a *very* good reason ([PII][pii] or other restrictions), work
-should be conducted in public repositories on publicly accessible servers such
-as GitHub.
-This includes software.
+Unless there is a **very** good reason ([PII][pii] or other restrictions), work
+on software should be conducted in public repositories.
 
 Paper repositories may be held back as private until time of first submission,
 when they should be made public for review.
@@ -107,7 +145,7 @@ We will endeavor to respond to requests to reproduce our results by providing
 necessary technology and data, allowing for reasonable commitments of time and
 effort.
 
-## 4. Authorship
+## 5. Authorship
 
 ### Publications
 
@@ -150,9 +188,9 @@ developed within the lab following departure of a primary developer. In such a
 case, decisions about "forking" or bifurcating development will be held on a
 case-by-case basis.
 
-## 5. Ethics
+## 6. Ethics
 
-> **Note:** this is distinct from the [Code of Conduct][coc], which applies 
+> **Note:** this is distinct from the [Code of Conduct][coc], which applies
 > both within and without the lab.
 
 Our actions should be guided by the ethics of participating in the scientific
@@ -182,55 +220,76 @@ included in papers or proposals; when "first pass" text is included from an
 external source, it must be clearly marked as such to ensure it is not
 accidentally included in the final product.
 
-## 6. Communication
+## 7. Coding and software
 
-> This page covers in-group communication. **If you wish to contact the group,
-> please email [Leo][leo] directly.**
+Strive to follow these standards:
 
-How we communicate:
+* Code should avoid being "too clever", for example clever abuses of languages
+  and algorithms that cut corners in the interest of marginal time savings.
+* Clarity and maintainability take precedence over performance to ensure that
+  the code can remain useful beyond the original scope of the project.
+* Tests should be considered mandatory for new functionality and bug fixes.
+  These tests should be part of automated testing suites.
+* Use [black](https://github.com/psf/black) to automatically format Python code.
+* Documentation must be added with any new code and should be accessible to
+  newcomers. Include examples whenever possible.
+* Comments (not including markdown cells in notebooks) are encouraged but not
+  necessary. Code should be as self-describing as possible. Where complexity
+  is innevitable, comments should allow anyone to  understand the shortcuts and
+  reasoning.
+* Include citations to algorithms whenever possible, including links to online
+  resources.
+* Docstrings should be added to all functions and classes in Python code.
 
-* **Slack:** Our [Slack team][slack] is the primary mode of communication for 
-  quick messages, announcements, reminders, and organizing meetings. 
-  Messages are ephemeral so you cannot count of being able to read messages 
-  older than 6 months! **Use email if you need a record of the conversation.**
-* **GitHub:** Each project is assigned a repository on our [GitHub account][gh]. 
-  Reviews of code, text, etc., will be done through the repository. We'll also 
-  use to set goals and tasks.
-* **Group meetings:** We will have *short* monthly group meetings for quick
-  updates from everyone, general discussion, announcements, interesting papers,
-  and informal chat. 
-* **Individual meetings:** We aim to have weekly individual meetings to discuss
-  project status, goals, and work through problems and ideas.
+Licensing:
 
-Group members are also strongly encouraged to have meetings and messages with 
-each other. **Don't wait until problems build up to seek guidance.**
+* We value respect for licensing terms and ensuring that we comply with them at
+  all times.
+* All code generated in the lab should be open-source with a permissive
+  (non-copyleft) license (MIT, BSD, etc).
+* Our preferred license is [BSD 3-clause][bsd].
+* If contributions to upstream copyleft (GPL, etc) projects are made, those
+  contributions can be licensed in accordance with the upstream project license.
+* For further discussion see [Stodden (2008)][software-licenses].
 
-How we use our website:
+Languages:
 
-* Source code used to generate the website: [compgeolab/website][website-github].
-* Members are expected to post **short** news items when they do things of note
-  (join the group, graduation, publication, conferences, awards, etc), as well as
-  to update project and publication information.
-* When joining the group, please submit a pull request adding yourself to the
-  website. You are **not** required to provide a photo and contact information 
-  (but you certainly may if you feel comfortable having this information public 
-  on the internet).
+* Use Python for most software.
+* Experimenting with Julia and other languages is acceptable and even desirable.
+* For code that needs to be optimized, the first preference is (in order):
+  Numba, then Cython, and finally C.
 
-Social media:
+Project leadership:
 
-* In general, social media can be freely used if in line with the
-  [University of Liverpool Social Media Policy][liv-social].
-* Lab members are encouraged to be respectful and kind while participating if
-  they are representing themselves as lab members. 
-  
+* When software is developed as a result of funded activity, the leadership
+  directions will be set collaboratively during the proposal writing process and
+  between lab members and Leo.
+* For externally developed projects, leadership is as decided by the broader
+  community.
+* Decisions regarding strategic direction for software projects (including
+  algorithmic strategies) will be made collaboratively.
+* For technical directions on lab-developed software, we operate by
+  ["lazy consensus"][lazy-consensus].
+
+External projects:
+
+* We strive to be good "citizens" of the broader open-source community.
+* We encourage lab members to contribute upstream to open-source projects.
+* Projects developed with external collaborators (e.g.,
+  [Fatiando a Terra][fatiando]) should have their discussions held openly.
+  This can help discourage the notion that projects developed by lab members
+  are not community projects.
+* For more discussion about this topic, see Matt Turk's paper
+  [Scaling a Code in the Human Dimension](https://arxiv.org/abs/1301.7064).
+
 ## 8. Health resources at Liverpool
 
 **Your first priority should always be your own health, safety, and
 well-being.**
 No project, paper, grant or collaboration is more important than that.
 
-In particular, time as a graduate students and as a postdoc is 
-[known to cause undue stress][grad-health], resulting in consequences ranging 
+In particular, time as a graduate students and as a postdoc is
+[known to cause undue stress][grad-health], resulting in consequences ranging
 from mild to extremely severe.
 
 The University of Liverpool has a number of resources that may be of
@@ -251,69 +310,7 @@ assistance:
   (external)**.
 * [Self-help Information](https://www.liverpool.ac.uk/studentsupport/counselling/selfhelp/):
   There is a lot of information on self-help with tips and information.
-  
-## Coding and software
 
-Strive to follow these standards:
-
-* Code should avoid being "too clever", for example clever abuses of languages 
-  and algorithms that cut corners in the interest of marginal time savings.
-* Clarity and maintainability take precedence over performance to ensure that
-  the code can remain useful beyond the original scope of the project.
-* Tests should be considered mandatory for new functionality and bug fixes. 
-  These tests should be part of automated testing suites.
-* Use [black](https://github.com/psf/black) to automatically format Python code.
-* Documentation must be added with any new code and should be accessible to 
-  newcomers. Include examples whenever possible.
-* Comments (not including markdown cells in notebooks) are encouraged but not 
-  necessary. Code should be as self-describing as possible. Where complexity 
-  is innevitable, comments should allow anyone to  understand the shortcuts and 
-  reasoning.
-* Include citations to algorithms whenever possible, including links to online
-  resources.
-* Docstrings should be added to all functions and classes in Python code.
-
-Licensing:
-
-* We value respect for licensing terms and ensuring that we comply with them at
-  all times. 
-* All code generated in the lab should be open-source with a permissive
-  (non-copyleft) license (MIT, BSD, etc). 
-* Our preferred license is [BSD 3-clause][bsd].
-* If contributions to upstream copyleft (GPL, etc) projects are made, those 
-  contributions can be licensed in accordance with the upstream project license.
-* For further discussion see [Stodden (2008)][software-licenses].
-
-Languages:
-
-* Use Python for most software. 
-* Experimenting with Julia and other languages is acceptable and even desirable. 
-* For code that needs to be optimized, the first preference is (in order): 
-  Numba, then Cython, and finally C.
-
-Project leadership:
-
-* When software is developed as a result of funded activity, the leadership
-  directions will be set collaboratively during the proposal writing process and
-  between lab members and Leo.
-* For externally developed projects, leadership is as decided by the broader 
-  community.
-* Decisions regarding strategic direction for software projects (including
-  algorithmic strategies) will be made collaboratively.
-* For technical directions on lab-developed software, we operate by
-  ["lazy consensus"][lazy-consensus].
-
-External projects:
-
-* We strive to be good "citizens" of the broader open-source community. 
-* We encourage lab members to contribute upstream to open-source projects.
-* Projects developed with external collaborators (e.g., 
-  [Fatiando a Terra][fatiando]) should have their discussions held openly.
-  This can help discourage the notion that projects developed by lab members 
-  are not community projects.
-* For more discussion about this topic, see Matt Turk's paper
-  [Scaling a Code in the Human Dimension](https://arxiv.org/abs/1301.7064).
- 
 ## License
 
 The manual is available under the
