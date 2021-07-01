@@ -251,7 +251,69 @@ assistance:
   (external)**.
 * [Self-help Information](https://www.liverpool.ac.uk/studentsupport/counselling/selfhelp/):
   There is a lot of information on self-help with tips and information.
+  
+## Coding and software
 
+Strive to follow these standards:
+
+* Code should avoid being "too clever", for example clever abuses of languages 
+  and algorithms that cut corners in the interest of marginal time savings.
+* Clarity and maintainability take precedence over performance to ensure that
+  the code can remain useful beyond the original scope of the project.
+* Tests should be considered mandatory for new functionality and bug fixes. 
+  These tests should be part of automated testing suites.
+* Use [black](https://github.com/psf/black) to automatically format Python code.
+* Documentation must be added with any new code and should be accessible to 
+  newcomers. Include examples whenever possible.
+* Comments (not including markdown cells in notebooks) are encouraged but not 
+  necessary. Code should be as self-describing as possible. Where complexity 
+  is innevitable, comments should allow anyone to  understand the shortcuts and 
+  reasoning.
+* Include citations to algorithms whenever possible, including links to online
+  resources.
+* Docstrings should be added to all functions and classes in Python code.
+
+Licensing:
+
+* We value respect for licensing terms and ensuring that we comply with them at
+  all times. 
+* All code generated in the lab should be open-source with a permissive
+  (non-copyleft) license (MIT, BSD, etc). 
+* Our preferred license is [BSD 3-clause][bsd].
+* If contributions to upstream copyleft (GPL, etc) projects are made, those 
+  contributions can be licensed in accordance with the upstream project license.
+* For further discussion see [Stodden (2008)][software-licenses].
+
+Languages:
+
+* Use Python for most software. 
+* Experimenting with Julia and other languages is acceptable and even desirable. 
+* For code that needs to be optimized, the first preference is (in order): 
+  Numba, then Cython, and finally C.
+
+Project leadership:
+
+* When software is developed as a result of funded activity, the leadership
+  directions will be set collaboratively during the proposal writing process and
+  between lab members and Leo.
+* For externally developed projects, leadership is as decided by the broader 
+  community.
+* Decisions regarding strategic direction for software projects (including
+  algorithmic strategies) will be made collaboratively.
+* For technical directions on lab-developed software, we operate by
+  ["lazy consensus"][lazy-consensus].
+
+External projects:
+
+* We strive to be good "citizens" of the broader open-source community. 
+* We encourage lab members to contribute upstream to open-source projects.
+* Projects developed with external collaborators (e.g., 
+  [Fatiando a Terra][fatiando]) should have their discussions held openly.
+  This can help discourage the notion that projects developed by lab members 
+  are not community projects.
+* For more discussion about this topic, see Matt Turk's paper
+  [Scaling a Code in the Human Dimension](https://arxiv.org/abs/1301.7064).
+ 
 ## License
 
 The manual is available under the
@@ -266,6 +328,7 @@ The manual is available under the
 <!-- Links -->
 [cc-by]: https://creativecommons.org/licenses/by/4.0
 [cc-0]: https://creativecommons.org/publicdomain/zero/1.0/
+[bsd]: https://opensource.org/licenses/BSD-3-Clause
 [lab-carp]: https://github.com/lab-carpentry
 [dib]: http://ivory.idyll.org/lab/
 [dxl]: https://data-exp-lab.github.io/
@@ -281,3 +344,6 @@ The manual is available under the
 [leo]: https://www.compgeolab.org/people/uieda.html
 [liv-social]: https://www.liverpool.ac.uk/media/livacuk/computingservices/regulations/social-media-policy.pdf
 [grad-health]: https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/
+[software-licenses]: https://doi.org/10.1109/MCSE.2009.19
+[fatiando]: https://www.fatiando.org
+[lazy-consensus]: https://rave.apache.org/docs/governance/lazyConsensus.html
