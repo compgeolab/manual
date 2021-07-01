@@ -222,6 +222,35 @@ Social media:
   [University of Liverpool Social Media Policy][liv-social].
 * Lab members are encouraged to be respectful and kind while participating if
   they are representing themselves as lab members. 
+  
+## 8. Health resources at Liverpool
+
+**Your first priority should always be your own health, safety, and
+well-being.**
+No project, paper, grant or collaboration is more important than that.
+
+In particular, time as a graduate students and as a postdoc is 
+[known to cause undue stress][grad-health], resulting in consequences ranging 
+from mild to extremely severe.
+
+The University of Liverpool has a number of resources that may be of
+assistance:
+
+* [Student Services](https://www.liverpool.ac.uk/studentsupport/): General
+  information and links to the different types of support offered to university
+  students.
+* [Mental Health Advisory Service](https://www.liverpool.ac.uk/studentsupport/mentalhealthadvisoryservice/):
+  The service can help you settle into student life and offers advisory on
+  mental health issues. **If you feel concerned that you or someone you know
+  may have more complex mental health needs, contact the Mental Health Advisory
+  Service** ([counserv@liverpool.ac.uk](mailto:counserv@liverpool.ac.uk) or
+  call `0151 794 3304`).
+* [Counselling Service](https://www.liverpool.ac.uk/studentsupport/counselling/):
+  The University offers drop-in counselling sessions. **This is not an
+  emergency service. In the event of an emergency call 2222 (internal) or 999
+  (external)**.
+* [Self-help Information](https://www.liverpool.ac.uk/studentsupport/counselling/selfhelp/):
+  There is a lot of information on self-help with tips and information.
 
 ## License
 
@@ -251,3 +280,4 @@ The manual is available under the
 [pii]: https://en.wikipedia.org/wiki/Personally_identifiable_information
 [leo]: https://www.compgeolab.org/people/uieda.html
 [liv-social]: https://www.liverpool.ac.uk/media/livacuk/computingservices/regulations/social-media-policy.pdf
+[grad-health]: https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/
