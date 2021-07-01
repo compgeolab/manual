@@ -182,6 +182,47 @@ included in papers or proposals; when "first pass" text is included from an
 external source, it must be clearly marked as such to ensure it is not
 accidentally included in the final product.
 
+## 6. Communication
+
+> This page covers in-group communication. **If you wish to contact the group,
+> please email [Leo][leo] directly.**
+
+How we communicate:
+
+* **Slack:** Our [Slack team][slack] is the primary mode of communication for 
+  quick messages, announcements, reminders, and organizing meetings. 
+  Messages are ephemeral so you cannot count of being able to read messages 
+  older than 6 months! **Use email if you need a record of the conversation.**
+* **GitHub:** Each project is assigned a repository on our [GitHub account][gh]. 
+  Reviews of code, text, etc., will be done through the repository. We'll also 
+  use to set goals and tasks.
+* **Group meetings:** We will have *short* monthly group meetings for quick
+  updates from everyone, general discussion, announcements, interesting papers,
+  and informal chat. 
+* **Individual meetings:** We aim to have weekly individual meetings to discuss
+  project status, goals, and work through problems and ideas.
+
+Group members are also strongly encouraged to have meetings and messages with 
+each other. **Don't wait until problems build up to seek guidance.**
+
+How we use our website:
+
+* Source code used to generate the website: [compgeolab/website][website-github].
+* Members are expected to post **short** news items when they do things of note
+  (join the group, graduation, publication, conferences, awards, etc), as well as
+  to update project and publication information.
+* When joining the group, please submit a pull request adding yourself to the
+  website. You are **not** required to provide a photo and contact information 
+  (but you certainly may if you feel comfortable having this information public 
+  on the internet).
+
+Social media:
+
+* In general, social media can be freely used if in line with the
+  [University of Liverpool Social Media Policy][liv-social].
+* Lab members are encouraged to be respectful and kind while participating if
+  they are representing themselves as lab members. 
+
 ## License
 
 The manual is available under the
@@ -202,8 +243,11 @@ The manual is available under the
 [checklist]: https://github.com/compgeolab/manual/blob/main/.github/ISSUE_TEMPLATE/induction.md
 [coc]: https://github.com/compgeolab/manual/blob/main/CODE_OF_CONDUCT.md
 [website]: https://www.compgeolab.org
+[website-github]: https://github.com/compgeolab/website
 [website-contrib]: https://github.com/compgeolab/website/blob/main/CONTRIBUTING.md
 [swc]: https://software-carpentry.org/lessons/
 [gh]: https://github.com/compgeolab/
 [slack]: https://compgeolab.slack.com
 [pii]: https://en.wikipedia.org/wiki/Personally_identifiable_information
+[leo]: https://www.compgeolab.org/people/uieda.html
+[liv-social]: https://www.liverpool.ac.uk/media/livacuk/computingservices/regulations/social-media-policy.pdf
