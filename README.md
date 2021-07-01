@@ -4,6 +4,10 @@ This document is designed to be a reference for lab members and collaborators
 as well as part of an induction process when people join the lab. It outlines
 our practices, core principals, ethics, and expectations.
 
+**IMPORTANT**: The **first thing** you should do is familiarize yourself with the lab
+[Code of Conduct][coc], which applies to lab members and collaborators,
+both within and without the lab.
+
 **The manual is a living document:** lab members are encouraged to submit fixes
 and improvements to it.
 
@@ -148,8 +152,8 @@ case-by-case basis.
 
 ## 5. Ethics
 
-**Note:** this is distinct from the [Code of Conduct](coc.md), which
-applies both within and without the lab.
+> **Note:** this is distinct from the [Code of Conduct][coc], which applies 
+> both within and without the lab.
 
 Our actions should be guided by the ethics of participating in the scientific
 community. This includes prioritizing our professional obligations over fear of
@@ -196,8 +200,9 @@ The manual is available under the
 [dib]: http://ivory.idyll.org/lab/
 [dxl]: https://data-exp-lab.github.io/
 [checklist]: https://github.com/compgeolab/manual/blob/main/.github/ISSUE_TEMPLATE/induction.md
+[coc]: https://github.com/compgeolab/manual/blob/main/CODE_OF_CONDUCT.md
 [website]: https://www.compgeolab.org
-[website-contrib]: https://github.com/compgeolab/website/blob/master/CONTRIBUTING.md
+[website-contrib]: https://github.com/compgeolab/website/blob/main/CONTRIBUTING.md
 [swc]: https://software-carpentry.org/lessons/
 [gh]: https://github.com/compgeolab/
 [slack]: https://compgeolab.slack.com
