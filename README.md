@@ -89,7 +89,7 @@ Social media:
 ## 4. Practices
 
 We have an **open-by-default** policy, meaning that we assume that software and
-data will openly available under permissive licenses ([CC-BY][cc-by],
+data will be made openly available under permissive licenses ([CC-BY][cc-by],
 [BSD][bsd], etc.) unless there is a  **very** good reason not to ([PII][pii] or
 other restrictions).
 
@@ -129,7 +129,7 @@ Reproducibility:
 
 * All necessary components to provide reproducibility of a scholarly work
   should be provided in a publicly accessible location and as part of the
-  scientific record (e.g., in a data archival platform).
+  scientific record (e.g., by including DOIs to data archives in papers).
 * The only exception is when strongly prohibited by external concerns (private
   or sensitive data, etc).
 * Method development papers must include:
