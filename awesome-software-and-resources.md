@@ -34,8 +34,10 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
     transform Markdown to HTML, to a PDF or to a Microsoft Office/Libre
     Office document).
 - Python
-  - [`mamba`](https://mamba.readthedocs.io/): Python package manager
-    (alternative to `conda`).
+  - [mamba](https://mamba.readthedocs.io/): Python package manager
+  - [Miniforge](https://github.com/conda-forge/miniforge): a conda-forge
+    distribution (alternative to Anaconda, useful if we don't desire to agree
+    with the [Anaconda TOS](https://www.anaconda.com/terms-of-service)).
 - Misc CLI tools
   - [delta](https://github.com/dandavison/delta): a syntax-highlighting pager
     for git and diff output
