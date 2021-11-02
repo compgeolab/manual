@@ -28,7 +28,8 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
 
 - [latexmk](https://www.ctan.org/pkg/latexmk): a CLI tool that automates the
     process of generating LaTeX documents.
-- [Tectonic](https://tectonic-typesetting.github.io/en-US/)
+- [Tectonic](https://tectonic-typesetting.github.io/en-US/): a modern LaTeX
+    engine, powered by XeLaTeX and TeXLive.
 - [`mamba`](https://mamba.readthedocs.io/): Python package manager (alternative
     to `conda`).
 - [delta](https://github.com/dandavison/delta): a syntax-highlighting pager for
