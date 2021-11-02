@@ -76,6 +76,40 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
 - [Online Equation Editor](https://latex.codecogs.com/): generate LaTeX
   equations and export them as images.
 
+
+## LaTeX packages
+
+A list of useful LaTeX packages that could be tricky to find.
+Most of them are released with a PDF document which explains how to use them:
+they are much more useful than a bunch of replies at StackOverflow.
+
+- [hyperref](https://ctan.org/pkg/hyperref): Create hyper-references in your
+  PDF with links to equations, figures, sections, chapters, footnotes, etc.
+- [fancyhdr](https://www.ctan.org/pkg/fancyhdr): Easy way to customize your
+  headers and footers.
+- [natbib](https://www.ctan.org/pkg/natbib): Flexible bibliography support,
+  defines the `\citet` and `\citep` commands.
+- [datetime2](https://www.ctan.org/pkg/datetime2): commands for formatting
+  dates and time zones.
+- [doi](https://www.ctan.org/pkg/doi): Create correct hyperlinks for DOI
+  numbers.
+- [xurl](https://www.ctan.org/pkg/xurl): Alternative to the `url` package that
+  allows breaks URLs at the end on the line.
+- [enumitem](https://www.ctan.org/pkg/enumitem): Extra control over `itemize`,
+  `enumerate` and `description`.
+- [algorithm2e](https://www.ctan.org/pkg/algorithm2e): Add a new type of floats
+  for including algorithms to your document.
+- [acronym](https://www.ctan.org/pkg/acronym): Manage acronyms in your
+  document, can optionally create a list of every acronym along with their
+  expansions.
+- [tocbibind](https://www.ctan.org/pkg/tocbibind): Add bibliography, index,
+  contents to Table of Contents.
+- [appendix](https://www.ctan.org/pkg/appendix): Extra control of appendices.
+- [listings](https://www.ctan.org/pkg/listings): Include source code into your
+  document with syntax highlighting and more.
+- [mathpazo](https://www.ctan.org/pkg/mathpazo): Use the Palatino font.
+
+
 ## Other awesome lists
 
 - [Awesome Open
