@@ -74,7 +74,7 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
 
 - [Awesome Open
   Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
-  by [Software Underground](https://softwareunderground.org/
+  by [Software Underground](https://softwareunderground.org/)
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 
 
