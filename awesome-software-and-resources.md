@@ -8,6 +8,7 @@ Feel free to add any tool or resource you found useful!
 > Tip: Use the table of contents icon next to "README.md" 👆🏽 to quickly
 > navigate this document.
 
+
 ## Learning resources
 
 - [Software Carpentry](https://software-carpentry.org/lessons/) has community
@@ -19,6 +20,7 @@ Feel free to add any tool or resource you found useful!
   to teaching how to use open-source tools for geosciences.
 - [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
   by Lapo F. Mori
+
 
 ## Software tools
 
@@ -56,6 +58,7 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
   - [Zotero](https://www.zotero.org/): collect and organize scientific articles
   - [Inkscape](https://inkscape.org/): vector graphics editor.
 
+
 ## Text editors and IDEs
 
 - [Neovim](https://neovim.io/): hyperextensible
@@ -65,8 +68,13 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
 - [Codium](https://vscodium.com/): Free/Libre Open Source Software Binaries of
   VSCode.
 
+
 ## Online services
 
+- [EarthArXiv](https://eartharxiv.org/): Preprint server were we can make our
+    papers freely available to anyone under CC licenses (read carefully your
+    Journal restrictions on publication of preprints or postprints to
+    archives).
 - [figshare](https://figshare.com) and [Zenodo](https://zenodo.org/): open access repositories for figures,
   dissertations, Thesis, code and mode.
 - [HackMD](https://hackmd.io/): collaborative Markdown notes that could be
@@ -75,6 +83,11 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
 - [polljunkie](http://polljunkie.com/): create quick and anonymous polls.
 - [Online Equation Editor](https://latex.codecogs.com/): generate LaTeX
   equations and export them as images.
+- [choosealicense.com](https://choosealicense.com/): great website to choose
+  software licenses for your projects.
+- [Creative Commons License
+  chooser](https://creativecommons.org/share-your-work/): choose the CC license
+  that best suits your needs for your non-software project.
 
 
 ## LaTeX packages
@@ -116,6 +129,7 @@ they are much more useful than a bunch of replies at StackOverflow.
   Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
   by [Software Underground](https://softwareunderground.org/)
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
+
 
 ## Procrastination material
 
