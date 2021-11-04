@@ -71,6 +71,8 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
 
 ## Online services
 
+- [Overleaf](https://www.overleaf.com/): an online LaTeX editor with lots of
+  templates. Useful for UG dissertation students.
 - [EarthArXiv](https://eartharxiv.org/): Preprint server were we can make our
     papers freely available to anyone under CC licenses (read carefully your
     Journal restrictions on publication of preprints or postprints to
