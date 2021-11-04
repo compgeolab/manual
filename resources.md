@@ -5,8 +5,8 @@
 
 Feel free to add any tool or resource you found useful!
 
-> Tip: Use the table of contents icon next to "README.md" 👆🏽 to quickly
-> navigate this document.
+> Tip: Use the table of contents icon next 👆🏽 to quickly navigate this
+> document.
 
 
 ## Learning resources
