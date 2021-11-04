@@ -82,6 +82,10 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
     archives).
 - [figshare](https://figshare.com) and [Zenodo](https://zenodo.org/): open access repositories for figures,
   dissertations, Thesis, code and mode.
+- [ORCID](https://orcid.org/): provides an *Open Researcher and Contributor ID*
+    that can be used to identify yourself during publication of papers,
+    abstract submissions, etc. Also can help you keep track of your work and
+    your background: you can just add them through DOIs.
 - [HackMD](https://hackmd.io/): collaborative Markdown notes that could be
   synced with GitHub repositories.
 - [doi2bib](https://www.doi2bib.org/): get a BibTeX entry out of a DOI.
