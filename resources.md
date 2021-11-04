@@ -20,6 +20,9 @@ Feel free to add any tool or resource you found useful!
   to teaching how to use open-source tools for geosciences.
 - [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
   by Lapo F. Mori
+- [How to Write a Git Commit
+  Message](https://chris.beams.io/posts/git-commit/): a comprehensive guide to
+  learn how to write meaningful git commie messages. Read it sooner than later!
 
 
 ## Software tools
