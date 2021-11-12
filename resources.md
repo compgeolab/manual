@@ -24,6 +24,16 @@ Feel free to add any tool or resource you found useful!
   Message](https://chris.beams.io/posts/git-commit/): a comprehensive guide to
   learn how to write meaningful git commie messages. Read it sooner than later!
 
+Learning Vim or Neovim:
+- [Vim as your editor
+  | ThePrimeagen](https://www.youtube.com/watch?v=H3o4l4GVLW0&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R):
+  YouTube playlist for learning Vim progressively.
+- [Your First VimRC (2021) | The Primeagen](https://www.youtube.com/watch?v=DogKdiRx7ls)
+- [VimTricks](https://vimtricks.com/): weekly tips, tricks, guides,
+  plugins, videos, screencasts, and more – all about Vim.
+- [VIM Adventures](https://vim-adventures.com/): learning Vim while playing
+    a game
+
 
 ## Software tools
 
