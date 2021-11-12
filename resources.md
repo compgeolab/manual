@@ -18,11 +18,20 @@ Feel free to add any tool or resource you found useful!
   [Software Underground](https://softwareunderground.org/) hosts the yearly
   Transform events where a lot of tutorials take place, particularly oriented
   to teaching how to use open-source tools for geosciences.
-- [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
-  by Lapo F. Mori
 - [How to Write a Git Commit
   Message](https://chris.beams.io/posts/git-commit/): a comprehensive guide to
   learn how to write meaningful git commie messages. Read it sooner than later!
+
+Learning LaTeX:
+- [Learn LaTex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+  by Overleaf
+- [Intro to LaTeX](https://www.learnlatex.org/en/): also avaiable in
+  [Português (Portuguese)](https://www.learnlatex.org/pt/), [Català (Catalan)](https://www.learnlatex.org/ca/),
+  [Deutsch (German)](https://www.learnlatex.org/de/), [Español (Spanish)](https://www.learnlatex.org/es/),
+  [Français (French)](https://www.learnlatex.org/fr/), [Marathi](https://www.learnlatex.org/mr/) and
+  [Tiếng Việt (Vietnamese)](https://www.learnlatex.org/vi/)
+- [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
+  by Lapo F. Mori
 
 
 ## Software tools
