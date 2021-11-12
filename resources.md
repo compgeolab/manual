@@ -25,13 +25,13 @@ Feel free to add any tool or resource you found useful!
 Learning LaTeX:
 - [Learn LaTex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
   by Overleaf
-- [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
-  by Lapo F. Mori
 - [Intro to LaTeX](https://www.learnlatex.org/en/): also avaiable in 
   [Português (Portuguese)](https://www.learnlatex.org/pt/), [Català (Catalan)](https://www.learnlatex.org/ca/),
   [Deutsch (German)](https://www.learnlatex.org/de/), [Español (Spanish)](https://www.learnlatex.org/es/),
   [Français (French)](https://www.learnlatex.org/fr/), [Marathi](https://www.learnlatex.org/mr/) and 
   [Tiếng Việt (Vietnamese)](https://www.learnlatex.org/vi/)
+- [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)-
+  by Lapo F. Mori
 
 
 ## Software tools
