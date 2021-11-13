@@ -33,6 +33,15 @@ Learning LaTeX:
 - [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
   by Lapo F. Mori
 
+Learning Vim or Neovim:
+- [Vim as your editor
+  | ThePrimeagen](https://www.youtube.com/watch?v=H3o4l4GVLW0&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R):
+  YouTube playlist for learning Vim progressively.
+- [Your First VimRC (2021) | The Primeagen](https://www.youtube.com/watch?v=DogKdiRx7ls)
+- [VimTricks](https://vimtricks.com/): weekly tips, tricks, guides,
+  plugins, videos, screencasts, and more – all about Vim.
+- [VIM Adventures](https://vim-adventures.com/): learning Vim while playing
+    a game
 
 ## Software tools
 
