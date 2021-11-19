@@ -65,7 +65,7 @@ you have access to the `mamba` package manager.
 
 > Run the commands below on Git Bash.
 
-Run this command to append the initialization code your
+Run this command to append the initialization code in your
 `.bashrc` file:
 
 ```bash
