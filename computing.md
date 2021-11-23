@@ -54,8 +54,10 @@ Follow the instructions below to download and setup Mambaforge.
 
 ### Windows
 
-Download the [latest Mambaforge](https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Windows-x86_64.exe) 
-and run the installer. 
+Download the [latest Mambaforge](https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Windows-x86_64.exe).
+
+Run the installer and make sure it saves the installation in your home folder (**it may not be the default**).
+For example,  `C:/Users/YOUR_USERNAME/mambaforge`. 
 
 This should create a `mambaforge` folder in your home directory
 (open Git Bash and run `cd` to get to your home).
