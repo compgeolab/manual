@@ -73,7 +73,7 @@ Run this command to append the initialization code in your
 ```bash
 cat >> .bashrc <<EOF 
 # Mambaforge initialization code
-source ~/mambaforge/etc/profile.d/conda.sh
+source ~/AppData/Local/mambaforge/etc/profile.d/conda.sh
 conda activate
 EOF
 ```
