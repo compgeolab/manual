@@ -67,15 +67,12 @@ you have access to the `mamba` package manager.
 
 > Run the commands below on Git Bash.
 
-Run this command to append the initialization code in your
-`.bashrc` file:
+Add the following initialization code to a file called `.bashrc` in your home folder:
 
 ```bash
-cat >> .bashrc <<EOF 
 # Mambaforge initialization code
 source ~/AppData/Local/mambaforge/etc/profile.d/conda.sh
 conda activate
-EOF
 ```
 
 After that, close Git Bash and open it again. 
