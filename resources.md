@@ -64,6 +64,9 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
   - [Miniforge](https://github.com/conda-forge/miniforge): a conda-forge
     distribution (alternative to Anaconda, useful if we don't desire to agree
     with the [Anaconda TOS](https://www.anaconda.com/terms-of-service)).
+  - [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge): another
+    conda-forge distribution that ships the `mamba` package manager by
+    default.
 - Misc CLI tools
   - [delta](https://github.com/dandavison/delta): a syntax-highlighting pager
     for git and diff output
