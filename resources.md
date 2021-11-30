@@ -21,6 +21,9 @@ Feel free to add any tool or resource you found useful!
 - [How to Write a Git Commit
   Message](https://chris.beams.io/posts/git-commit/): a comprehensive guide to
   learn how to write meaningful git commie messages. Read it sooner than later!
+- [Pro Git book](https://git-scm.com/book/en/v2), by Scott Chacon and Ben
+  Straub. Licensed under CC-BY-NC-SA 3.0 and available in different formats
+  (PDF, epub and as website).
 
 Learning LaTeX:
 - [Learn LaTex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
