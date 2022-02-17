@@ -142,25 +142,6 @@ This means:
 
 ## Coding and software
 
-Strive to follow these standards:
-
-* Code should avoid being "too clever", for example clever abuses of languages
-  and algorithms that cut corners in the interest of marginal time savings.
-* Clarity and maintainability take precedence over performance to ensure that
-  the code can remain useful beyond the original scope of the project.
-* Tests should be considered mandatory for new functionality and bug fixes.
-  These tests should be part of automated testing suites.
-* Use [black](https://github.com/psf/black) to automatically format Python code.
-* Documentation must be added with any new code and should be accessible to
-  newcomers. Include examples whenever possible.
-* Comments (not including markdown cells in notebooks) are encouraged but not
-  necessary. Code should be as self-describing as possible. Where complexity
-  is inevitable, comments should allow anyone to  understand the shortcuts and
-  reasoning.
-* Include citations to algorithms whenever possible, including links to online
-  resources.
-* Docstrings should be added to all functions and classes in Python code.
-
 Licensing:
 
 * We value respect for licensing terms and ensuring that we comply with them at
@@ -171,13 +152,6 @@ Licensing:
 * If contributions to upstream copyleft (GPL, etc) projects are made, those
   contributions can be licensed in accordance with the upstream project license.
 * For further discussion see [Stodden (2008)](https://doi.org/10.1109/MCSE.2009.19).
-
-Languages:
-
-* Use Python for most software.
-* Experimenting with Julia and other languages is acceptable and even desirable.
-* For code that needs to be optimized, the first preference is (in order):
-  Numba, then Cython, and finally C.
 
 Project leadership:
 
@@ -201,3 +175,29 @@ External projects:
   lab members are not community projects.
 * For more discussion about this topic, see Matt Turk's paper
   [Scaling a Code in the Human Dimension](https://arxiv.org/abs/1301.7064).
+
+Languages:
+
+* Use Python for most software.
+* Experimenting with Julia and other languages is acceptable and even desirable.
+* For code that needs to be optimized, the first preference is (in order):
+  Numba, then Cython, and finally C.
+
+Strive to follow these standards:
+
+* Code should avoid being "too clever", for example clever abuses of languages
+  and algorithms that cut corners in the interest of marginal time savings.
+* Clarity and maintainability take precedence over performance to ensure that
+  the code can remain useful beyond the original scope of the project.
+* Tests should be considered mandatory for new functionality and bug fixes.
+  These tests should be part of automated testing suites.
+* Use [black](https://github.com/psf/black) to automatically format Python code.
+* Documentation must be added with any new code and should be accessible to
+  newcomers. Include examples whenever possible.
+* Comments (not including markdown cells in notebooks) are encouraged but not
+  necessary. Code should be as self-describing as possible. Where complexity
+  is inevitable, comments should allow anyone to  understand the shortcuts and
+  reasoning.
+* Include citations to algorithms whenever possible, including links to online
+  resources.
+* Docstrings should be added to all functions and classes in Python code.
