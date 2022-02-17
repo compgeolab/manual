@@ -229,7 +229,7 @@ Strive to follow these standards:
   newcomers. Include examples whenever possible.
 * Comments (not including markdown cells in notebooks) are encouraged but not
   necessary. Code should be as self-describing as possible. Where complexity
-  is innevitable, comments should allow anyone to  understand the shortcuts and
+  is inevitable, comments should allow anyone to  understand the shortcuts and
   reasoning.
 * Include citations to algorithms whenever possible, including links to online
   resources.
@@ -324,7 +324,7 @@ The manual is available under the
 [dib]: http://ivory.idyll.org/lab/
 [dxl]: https://data-exp-lab.github.io/
 [checklist]: https://github.com/compgeolab/manual/blob/main/.github/ISSUE_TEMPLATE/induction.md
-[coc]: https://github.com/compgeolab/manual/blob/main/CODE_OF_CONDUCT.md
+[coc]: https://github.com/compgeolab/.github/blob/main/CODE_OF_CONDUCT.md
 [website]: https://www.compgeolab.org
 [website-github]: https://github.com/compgeolab/website
 [website-contrib]: https://github.com/compgeolab/website/blob/main/CONTRIBUTING.md
