@@ -178,3 +178,4 @@ Do you want to procrastinate a little bit?
 - [Brandon Rhodes: Stopping to Sharpen Your Tools - PyWaw Summit 2015](https://www.youtube.com/watch?v=I56oFTm9UlE)
 - ["The Antipodes" - Brandon Rhodes (PyCon AU 2019)](https://www.youtube.com/watch?v=Nd6vturx_yg)
 - [Data Science and Open Communities | Fernando Perez | TEDxBerkeley](https://www.youtube.com/watch?v=sla_vxu-jDk)
+- [David Beazley | PyData Global 2021 | Begin ... end? | History of Python in Science](https://www.youtube.com/watch?v=riuyDEHxeEo)
