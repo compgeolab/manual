@@ -1,14 +1,17 @@
 # Setting up your computer
 
-Most projects developed in the lab will require you to have 
+Most projects developed in the lab will require you to have
 git, a terminal, and Python properly setup on your computer.
 Below are some instructions on how to do this.
 
+> 💡 **Tip:** Use the [table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/)
+> icon on the top-left 👆🏽 to quickly navigate this document.
+
 ## Git and a terminal
 
-[Git](https://git-scm.com/) is what we use to collaborate on 
+[Git](https://git-scm.com/) is what we use to collaborate on
 projects, track a history of changes, and backup to the cloud
-(GitHub). 
+(GitHub).
 
 A terminal with a decent shell (e.g., bash) is the primary
 interface for using git and other command line utilities
@@ -36,17 +39,17 @@ sudo apt-get install git
 
 > **DO NOT** download Python from https://www.python.org!
 
-The best way to get setup with Python for your project is 
+The best way to get setup with Python for your project is
 by getting a Python distribution that has the `conda` or `mamba`
 package managers. Anaconda itself (which you likely have from
-one of Leo's classes) is good for some cases but for your 
+one of Leo's classes) is good for some cases but for your
 project work it will likely cause more harm than good because
-it comes with too many libraries that we won't need (and is thus 
+it comes with too many libraries that we won't need (and is thus
 a huge pain to update).
 
-The recommended distribution to install for Windows, Linux, and Mac 
+The recommended distribution to install for Windows, Linux, and Mac
 is [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge).
-This is a minimalist version of Anaconda made by the 
+This is a minimalist version of Anaconda made by the
 [conda-forge](https://conda-forge.org/) team. It comes only with Python
 and `mamba` (which we use to install other libraries).
 
@@ -57,7 +60,7 @@ Follow the instructions below to download and setup Mambaforge.
 Download the [latest Mambaforge](https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Windows-x86_64.exe).
 
 Run the installer and the default should save the installation in a sub folder `AppData/Local/` within your home folder.
-For example,  `C:/Users/YOUR_USERNAME/AppData/Local/mambaforge`. 
+For example,  `C:/Users/YOUR_USERNAME/AppData/Local/mambaforge`.
 
 This should create a `mambaforge` folder in your home directory
 (open Git Bash and run `cd` to get to your home).
@@ -75,15 +78,15 @@ source ~/AppData/Local/mambaforge/etc/profile.d/conda.sh
 conda activate
 ```
 
-After that, close Git Bash and open it again. 
-To test that your setup worked, run `python` and 
+After that, close Git Bash and open it again.
+To test that your setup worked, run `python` and
 check if the output looks something like the following:
 
 ```
-Python 3.9.0 | packaged by conda-forge | (default, Nov 26 2020, 07:57:39) 
+Python 3.9.0 | packaged by conda-forge | (default, Nov 26 2020, 07:57:39)
 [GCC 9.3.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
->>> 
+>>>
 ```
 
 Also try running `mamba` and check that the output is something like:

@@ -1,12 +1,11 @@
-# Awesome software and resources
+# Useful software and resources
 
 A curated list of software tools, services, and learning resources that could
 be handy for the work we do in the lab.
 Feel free to **add any tool or resource you found useful**!
 
-> 💡 **Tip:** Use the table of contents icon next 👆🏽 to quickly navigate this
-> document.
-
+> 💡 **Tip:** Use the [table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/)
+> icon on the top-left 👆🏽 to quickly navigate this document.
 
 ## Learning resources
 
