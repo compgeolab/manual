@@ -4,8 +4,8 @@ This document outlines how we approach science, collaboration, and authorship.
 **It is vital that you are aware of and agree with these principles to a large
 extent if you want to work with us**.
 
-> 💡 **Tip**: Use the table of contents icon next to "README.md" 👆🏽 to
-> quickly navigate this document.
+> 💡 **Tip:** Use the [table of contents](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/)
+> icon on the top-left 👆🏽 to quickly navigate this document.
 
 ## Our stance on Open Science
 
