@@ -1,16 +1,16 @@
 # Awesome software and resources
 
-> A curated list of software tools and learning resources that could be handy
-> for the work we do in the lab.
+A curated list of software tools, services, and learning resources that could
+be handy for the work we do in the lab.
+Feel free to **add any tool or resource you found useful**!
 
-Feel free to add any tool or resource you found useful!
-
-> Tip: Use the table of contents icon next 👆🏽 to quickly navigate this
+> 💡 **Tip:** Use the table of contents icon next 👆🏽 to quickly navigate this
 > document.
 
 
 ## Learning resources
 
+Coding and software development:
 - [Software Carpentry](https://software-carpentry.org/lessons/) has community
   driven lessons on how to use the Unix shell, Version Control with Git, and
   Python.
@@ -25,7 +25,7 @@ Feel free to add any tool or resource you found useful!
   Straub. Licensed under CC-BY-NC-SA 3.0 and available in different formats
   (PDF, epub and as website).
 
-Learning LaTeX:
+LaTeX (producing beautiful documents):
 - [Learn LaTex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
   by Overleaf
 - [Intro to LaTeX](https://www.learnlatex.org/en/): also avaiable in
@@ -36,7 +36,7 @@ Learning LaTeX:
 - [Writing a thesis with LaTeX](https://tug.org/pracjourn/2008-1/mori/mori.pdf)
   by Lapo F. Mori
 
-Learning Vim or Neovim:
+Vim or Neovim (text editors):
 - [Vim as your editor
   | ThePrimeagen](https://www.youtube.com/watch?v=H3o4l4GVLW0&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R):
   YouTube playlist for learning Vim progressively.
@@ -48,51 +48,57 @@ Learning Vim or Neovim:
 
 ## Software tools
 
-Every one of the software listed on below are available through [open-source or
-Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
+> 🔓 **Note:** Every tool listed on below is [open-source or Software
+> Libre](https://en.wikipedia.org/wiki/Free_software).
 
-- LaTeX and document writing
-  - [latexmk](https://www.ctan.org/pkg/latexmk): a CLI tool that automates the
-    process of generating LaTeX documents.
-  - [Tectonic](https://tectonic-typesetting.github.io/en-US/): a modern LaTeX
-    engine, powered by XeLaTeX and TeXLive.
-  - [pandoc](https://pandoc.org/): universal document converter (e.g.
-    transform Markdown to HTML, to a PDF or to a Microsoft Office/Libre
-    Office document).
-- Python
-  - [mamba](https://mamba.readthedocs.io/): Python package manager
-  - [Miniforge](https://github.com/conda-forge/miniforge): a conda-forge
-    distribution (alternative to Anaconda, useful if we don't desire to agree
-    with the [Anaconda TOS](https://www.anaconda.com/terms-of-service)).
-  - [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge): another
-    conda-forge distribution that ships the `mamba` package manager by
-    default.
-- Misc CLI tools
-  - [delta](https://github.com/dandavison/delta): a syntax-highlighting pager
-    for git and diff output
-  - [convert](https://imagemagick.org/script/convert.php): a CLI tool to
-    transform images (resize, rotate, flip, etc) and convert them to other
-    formats (png, jpg, pdf, etc).
-  - [GitHub CLI](https://cli.github.com/): interact with GitHub from the
-    terminal.
-  - [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/): the pdf
-    toolkit.
-  - [reveal-js](https://revealjs.com/): create slides as through HTML.
-  - [tldr](https://github.com/tldr-pages/tldr) and
-    [cheat](https://github.com/cheat/cheat): access collaborative cheatsheets
-    from the terminal.
-- Awesome GUI tools
-  - [Zotero](https://www.zotero.org/): collect and organize scientific articles
-  - [Inkscape](https://inkscape.org/): vector graphics editor.
+Document writing and LaTeX:
+- [latexmk](https://www.ctan.org/pkg/latexmk): a CLI tool that automates the
+  process of generating LaTeX documents.
+- [Tectonic](https://tectonic-typesetting.github.io/en-US/): a modern LaTeX
+  engine, powered by XeLaTeX and TeXLive.
+- [pandoc](https://pandoc.org/): universal document converter (e.g. transform
+  Markdown to HTML, to a PDF or to a Microsoft Office/Libre Office document).
 
+Python:
+- [mamba](https://mamba.readthedocs.io/): Python package manager
+- [Miniforge](https://github.com/conda-forge/miniforge): a conda-forge
+  distribution (alternative to Anaconda, useful if we don't desire to agree
+  with the [Anaconda TOS](https://www.anaconda.com/terms-of-service)).
+- [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge): another
+  conda-forge distribution that ships the `mamba` package manager by default.
 
-## Text editors and IDEs
+Handy command-line tools:
+- [delta](https://github.com/dandavison/delta): a syntax-highlighting pager for
+  git and diff output
+- [convert](https://imagemagick.org/script/convert.php): a CLI tool to
+  transform images (resize, rotate, flip, etc) and convert them to other
+  formats (png, jpg, pdf, etc).
+- [GitHub CLI](https://cli.github.com/): interact with GitHub from the
+  terminal.
+- [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/): the pdf
+  toolkit.
+- [reveal-js](https://revealjs.com/): create slides as through HTML. For
+  inspiration, take a look at
+  [Leo's](https://github.com/leouieda/talk-template) and
+  [Santiago's](https://github.com/santisoler/talk-template) Reveal-based slide
+  templates.
+- [tldr](https://github.com/tldr-pages/tldr) and
+  [cheat](https://github.com/cheat/cheat): access collaborative cheat-sheets
+  from the terminal.
 
+Reference management:
+- [Zotero](https://www.zotero.org/): collect and organize scientific articles
+
+Graphics:
+- [Inkscape](https://inkscape.org/): vector graphics editor. Awesome for making
+  illustrations, posters, etc.
+
+Text editors and integrated development environments (IDEs):
 - [Neovim](https://neovim.io/): hyperextensible
   [Vim](https://www.vim.org/)-based text editor.
 - [Visual Studio Code](https://code.visualstudio.com/): Microsoft's famous text
   editor (sends telemetry to Microsoft).
-- [Codium](https://vscodium.com/): Free/Libre Open Source Software Binaries of
+- [Codium](https://vscodium.com/): Free/Libre open source software binaries of
   VSCode.
 
 
@@ -101,15 +107,14 @@ Software Libre](https://en.wikipedia.org/wiki/Free_software) licenses.
 - [Overleaf](https://www.overleaf.com/): an online LaTeX editor with lots of
   templates. Useful for UG dissertation students.
 - [EarthArXiv](https://eartharxiv.org/): Preprint server were we can make our
-    papers freely available to anyone under CC licenses (read carefully your
-    Journal restrictions on publication of preprints or postprints to
-    archives).
-- [figshare](https://figshare.com) and [Zenodo](https://zenodo.org/): open access repositories for figures,
-  dissertations, Thesis, code and mode.
+  papers freely available to anyone under CC licenses (read carefully your
+  Journal restrictions on publication of preprints or postprints to archives).
+- [figshare](https://figshare.com) and [Zenodo](https://zenodo.org/): open
+  access repositories for figures, dissertations, Thesis, code and mode.
 - [ORCID](https://orcid.org/): provides an *Open Researcher and Contributor ID*
-    that can be used to identify yourself during publication of papers,
-    abstract submissions, etc. Also can help you keep track of your work and
-    your background: you can just add them through DOIs.
+  that can be used to identify yourself during publication of papers, abstract
+  submissions, etc. Also can help you keep track of your work and your
+  background: you can just add them through DOIs.
 - [HackMD](https://hackmd.io/): collaborative Markdown notes that could be
   synced with GitHub repositories.
 - [doi2bib](https://www.doi2bib.org/): get a BibTeX entry out of a DOI.
