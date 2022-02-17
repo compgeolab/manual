@@ -1,4 +1,4 @@
-# Awesome software and resources
+# Useful software and resources
 
 A curated list of software tools, services, and learning resources that could
 be handy for the work we do in the lab.
