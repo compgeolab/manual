@@ -1,3 +1,5 @@
+> **ARCHIVED.** Sources have been moved to https://github.com/compgeolab/website and integrated into the main website https://www.compgeolab.org/manual.
+
 # Lab Manual
 
 These documents are designed to be a reference for lab members and
